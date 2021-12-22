@@ -2,7 +2,7 @@
 The purpose of this analysis was to identify 
 clusters within a customer base through the 
 use of Principal Component Analysis (PCA) 
-and k-Means Clustering. 
+and k-means Clustering. 
 """ 
 
 # Importing libraries 
